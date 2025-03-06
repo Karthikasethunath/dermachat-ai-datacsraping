@@ -1,6 +1,5 @@
 # Project: SkinChat AI: Conversational Health Monitoring Assistant 
 
-## JIRA Ticket: [CLINICAL-717]
 
 ## Description
 Develop an advanced chatbot for eczema management that integrates image recognition to analyze user-provided images and natural language processing to review relevant research papers. Leverage this analysis and stored user data to provide personalized recommendations for managing eczema.
@@ -30,8 +29,8 @@ Develop an advanced chatbot for eczema management that integrates image recognit
 ## Usage
 Provide instructions on how to use the scripts and notebooks in this project.
 
-## Contributors
-- [Pushpanjali] - [s3976146@student.rmit.edu.au]
+## Video  
+ (https://youtu.be/6Dgalmxthqk?si=fvINL__6CkVOexbL)
 
 ## Notes
 **About CLINICAL-718**
